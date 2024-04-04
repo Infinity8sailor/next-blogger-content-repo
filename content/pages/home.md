@@ -19,9 +19,8 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/kitagawa-marin.jpg
-      alt: >-
-        Marin sensei dis
+      src: /uploads/kitagawa-marin.png
+      alt: Marin sensei dis
     color: default
     _template: hero
   - items:
